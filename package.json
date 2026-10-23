@@ -1,0 +1,6 @@
+{
+  "name": "oe-bench-spike-1136",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node --test" }
+}
